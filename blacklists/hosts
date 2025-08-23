@@ -1,0 +1,51 @@
+################################
+# these come from
+#    https://discourse.pi-hole.net/t/commonly-blacklisted-domains/305
+################################
+
+# Twitch
+0.0.0.0 api.mixpanel.com
+0.0.0.0 spade.twitch.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 sb.scorecardresearch.com
+
+# Pandora
+0.0.0.0 ad.pandora.tv
+0.0.0.0 ads.pandora.tv.net
+0.0.0.0 stats.pandora.com
+0.0.0.0 adserver.pandora.com
+
+#################################
+# these are added by me from logs
+#################################
+
+0.0.0.0 reporting.deliveryengine.adswizz.com
+0.0.0.0 pn.ybp.yahoo.com
+0.0.0.0 enduser.adsrvr.org
+0.0.0.0 delivery-cdn-cf.adswizz.com
+0.0.0.0 pandora.deliveryengine.adswizz.com
+
+# not sure if these need to be here or not
+# they might be blocked in other files, but whatever
+0.0.0.0 settings.client-config.siriusxm.com
+0.0.0.0 o1407395.ingest.sentry.io
+0.0.0.0 pandora-android.client-config.siriusxm.com
+0.0.0.0 cont.p-cdn.us
+0.0.0.0 api2.branch.io
+0.0.0.0 mediaserver-cont-dc6-2-v4v6.pandora.com
+0.0.0.0 remote-data.urbanairship.com
+0.0.0.0 google-ohttp-relay-safebrowsing.fastly-edge.com
+0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 android-tuner.pandora.com
+0.0.0.0 cdn.branch.io
+0.0.0.0 cont-3.p-cdn.us
+0.0.0.0 cont-5.p-cdn.us
+0.0.0.0 cont-1.p-cdn.us
+0.0.0.0 adserver.pandora.com
+0.0.0.0 device-api.urbanairship.com
+0.0.0.0 arttrk.com
+0.0.0.0 cont-2.p-cdn.us
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 stats.pandora.com
+0.0.0.0 mobile.adsafeprotected.com
