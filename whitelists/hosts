@@ -1,0 +1,14 @@
+##################################
+# this is a list of explicitly allowed domains
+# usually because blocking them breaks functionality
+##################################
+# format:
+#  just put the domain name on a line on its own
+#  no spaces are anything else
+# reference:
+#  https://raw.githubusercontent.com/GoodnessJSON/PiHole-Whitelist/master/lists/whitelist.txt
+
+# nothing to add yet
+# potential candidates:
+#  wesh videos
+#  discord login prompts
