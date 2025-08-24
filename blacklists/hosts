@@ -36,7 +36,7 @@
 0.0.0.0 remote-data.urbanairship.com
 0.0.0.0 google-ohttp-relay-safebrowsing.fastly-edge.com
 0.0.0.0 safebrowsing.googleapis.com
-0.0.0.0 android-tuner.pandora.com
+# 0.0.0.0 android-tuner.pandora.com # this broke pandora
 0.0.0.0 cdn.branch.io
 0.0.0.0 cont-3.p-cdn.us
 0.0.0.0 cont-5.p-cdn.us
